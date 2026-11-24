@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title">
+  <title id="title">Набор SVG-иконок</title>
+  <rect width="1200" height="900" fill="#DCE9FF"/>
+  <circle cx="986" cy="204" r="180" fill="#D7FF57"/>
+  <g fill="none" stroke="#17213B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 190h1120M40 370h1120M40 550h1120M40 730h1120"/>
+    <path d="M210 100v700M390 100v700M570 100v700M750 100v700M930 100v700"/>
+  </g>
+  <g transform="translate(120 190)">
+    <circle cx="60" cy="60" r="58" fill="#F7F9FF" stroke="#17213B" stroke-width="3"/>
+    <circle cx="54" cy="54" r="20" fill="none" stroke="#17213B" stroke-width="4"/>
+    <path d="m70 70 24 24" stroke="#17213B" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(300 190)">
+    <circle cx="60" cy="60" r="58" fill="#17213B"/>
+    <path d="M60 26v58m0 0-20-20m20 20 20-20M34 86h52" fill="none" stroke="#D7FF57" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(480 190)">
+    <rect x="2" y="2" width="116" height="116" rx="58" fill="#F7F9FF" stroke="#17213B" stroke-width="3"/>
+    <path d="M38 60h44M60 38v44" stroke="#17213B" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(660 190)">
+    <circle cx="60" cy="60" r="58" fill="#F7F9FF" stroke="#17213B" stroke-width="3"/>
+    <path d="M38 46h44v38H38zM46 34h28" fill="none" stroke="#17213B" stroke-width="4" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(840 190)">
+    <circle cx="60" cy="60" r="58" fill="#F7F9FF" stroke="#17213B" stroke-width="3"/>
+    <path d="m42 42 36 36M78 42 42 78" stroke="#17213B" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(120 370)">
+    <circle cx="60" cy="60" r="58" fill="#F7F9FF" stroke="#17213B" stroke-width="3"/>
+    <path d="m42 32 32 28-32 28z" fill="none" stroke="#17213B" stroke-width="4" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(300 370)">
+    <circle cx="60" cy="60" r="58" fill="#D7FF57" stroke="#17213B" stroke-width="3"/>
+    <path d="m36 60 16 16 32-34" fill="none" stroke="#17213B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(480 370)">
+    <circle cx="60" cy="60" r="58" fill="#F7F9FF" stroke="#17213B" stroke-width="3"/>
+    <path d="M40 78h40M38 60l22-28 22 28" fill="none" stroke="#17213B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(660 370)">
+    <circle cx="60" cy="60" r="58" fill="#F7F9FF" stroke="#17213B" stroke-width="3"/>
+    <circle cx="60" cy="60" r="22" fill="none" stroke="#17213B" stroke-width="4"/>
+    <path d="M60 22v16M60 82v16M22 60h16M82 60h16" stroke="#17213B" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(840 370)">
+    <circle cx="60" cy="60" r="58" fill="#F7F9FF" stroke="#17213B" stroke-width="3"/>
+    <path d="M36 42h48v36H36zM36 54h48" fill="none" stroke="#17213B" stroke-width="4" stroke-linejoin="round"/>
+  </g>
+  <text x="1062" y="420" fill="#17213B" font-family="Arial, Helvetica, sans-serif" font-size="170" font-weight="900" letter-spacing="-8">48</text>
+  <text x="1064" y="470" fill="#17213B" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" letter-spacing="6">ICONS</text>
+  <text x="80" y="806" fill="#17213B" font-family="Arial, Helvetica, sans-serif" font-size="100" font-weight="900" letter-spacing="-4">ИКОНКИ</text>
+  <text x="1120" y="806" text-anchor="end" fill="#17213B" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="5">SVG / 24PX</text>
+  <g transform="translate(80 618)" fill="none" stroke="#17213B" stroke-width="3">
+    <rect x="0" y="0" width="140" height="140" rx="70"/>
+    <path d="M52 72h36M70 54v36"/>
+  </g>
+</svg>

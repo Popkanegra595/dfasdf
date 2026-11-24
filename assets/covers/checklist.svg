@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title">
+  <title id="title">Чек-лист запуска сайта</title>
+  <rect width="1200" height="900" fill="#173B2B"/>
+  <g fill="none" stroke="#2E5B47" stroke-width="2">
+    <circle cx="1030" cy="130" r="260"/>
+    <circle cx="1030" cy="130" r="190"/>
+    <circle cx="1030" cy="130" r="120"/>
+  </g>
+  <text x="72" y="115" fill="#D7FF57" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="7">PRE-FLIGHT / 01</text>
+  <g transform="rotate(-4 610 490)">
+    <rect x="200" y="150" width="800" height="650" rx="8" fill="#F6F3E8"/>
+    <rect x="200" y="150" width="800" height="78" fill="#D7FF57"/>
+    <text x="240" y="204" fill="#173B2B" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" letter-spacing="4">LAUNCH CHECKLIST</text>
+    <text x="240" y="320" fill="#173B2B" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="900" letter-spacing="-3">ЗАПУСК</text>
+    <text x="240" y="394" fill="#173B2B" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="900" letter-spacing="-3">САЙТА</text>
+    <g transform="translate(240 460)">
+      <g transform="translate(0 0)">
+        <rect width="40" height="40" rx="4" fill="#173B2B"/>
+        <path d="m9 20 8 8 15-17" fill="none" stroke="#D7FF57" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="64" y="28" fill="#173B2B" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600">Контент и тексты</text>
+      </g>
+      <g transform="translate(0 74)">
+        <rect width="40" height="40" rx="4" fill="none" stroke="#173B2B" stroke-width="2"/>
+        <path d="m9 20 8 8 15-17" fill="none" stroke="#173B2B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="64" y="28" fill="#173B2B" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600">Ссылки и формы</text>
+      </g>
+      <g transform="translate(0 148)">
+        <rect width="40" height="40" rx="4" fill="none" stroke="#173B2B" stroke-width="2"/>
+        <path d="m9 20 8 8 15-17" fill="none" stroke="#173B2B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="64" y="28" fill="#173B2B" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600">Скорость и SEO</text>
+      </g>
+      <g transform="translate(0 222)">
+        <rect width="40" height="40" rx="4" fill="none" stroke="#173B2B" stroke-width="2"/>
+        <path d="m9 20 8 8 15-17" fill="none" stroke="#173B2B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="64" y="28" fill="#173B2B" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600">Аналитика и цели</text>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(108 796)">
+    <circle cx="0" cy="0" r="24" fill="#D7FF57"/>
+    <text x="42" y="8" fill="#F6F3E8" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="2">45 ПРОВЕРОК</text>
+  </g>
+</svg>

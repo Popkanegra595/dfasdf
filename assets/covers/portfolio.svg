@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title">
+  <title id="title">Шаблон портфолио</title>
+  <rect width="1200" height="900" fill="#1A1B18"/>
+  <circle cx="890" cy="448" r="300" fill="#FF6239"/>
+  <circle cx="890" cy="448" r="216" fill="none" stroke="#1A1B18" stroke-width="3"/>
+  <path d="M674 448h432M890 232v432" stroke="#1A1B18" stroke-width="3"/>
+  <text x="70" y="126" fill="#F2EFE4" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="7">PORTFOLIO / TEMPLATE</text>
+  <text x="64" y="356" fill="#F2EFE4" font-family="Arial, Helvetica, sans-serif" font-size="170" font-weight="900" letter-spacing="-8">СОБРАТЬ</text>
+  <text x="64" y="510" fill="#F2EFE4" font-family="Arial, Helvetica, sans-serif" font-size="170" font-weight="900" letter-spacing="-8">СВОЁ</text>
+  <path d="M70 578h620" stroke="#F2EFE4" stroke-width="3"/>
+  <text x="70" y="638" fill="#F2EFE4" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600">Одностраничный шаблон для дизайнера</text>
+  <g transform="translate(70 714)">
+    <rect width="194" height="52" rx="26" fill="#D7FF57"/>
+    <text x="97" y="33" text-anchor="middle" fill="#1A1B18" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800" letter-spacing="1">HTML / CSS</text>
+    <rect x="210" width="194" height="52" rx="26" fill="none" stroke="#F2EFE4" stroke-width="2"/>
+    <text x="307" y="33" text-anchor="middle" fill="#F2EFE4" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800" letter-spacing="1">АДАПТИВ</text>
+  </g>
+  <g transform="translate(70 830)" fill="#F2EFE4">
+    <circle cx="8" cy="0" r="8"/><circle cx="42" cy="0" r="8"/><circle cx="76" cy="0" r="8"/>
+  </g>
+  <text x="1130" y="838" text-anchor="end" fill="#F2EFE4" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="3">POLKA / 2026</text>
+</svg>
